@@ -15,9 +15,15 @@ else:
 
 # **Comparison Operation**
 - **Used in Condition:**
- - ```==``` Equal to 
- - ```!=``` Not equal to
- - ```>```  Greater than
- - ```<```  Less than
- - ```>=``` Greater than or equal to
- - ```<=``` Less than or equal to
+ - ```==``` Equal to. 
+ - ```!=``` Not equal to.
+ - ```>```  Greater than.
+ - ```<```  Less than.
+ - ```>=``` Greater than or equal to.
+ - ```<=``` Less than or equal to.
+
+# Logical Operator
+- **Combine multiple condition:**
+ -**and:** Both condition must be true.
+ -**or:**  At least one condition must be true.
+ -**not:** Negates the condition.
