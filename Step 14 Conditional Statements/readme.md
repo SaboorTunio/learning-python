@@ -24,6 +24,7 @@ else:
 
 # Logical Operator
 - **Combine multiple condition:**
+
  - **and:** Both condition must be true.
  - **or:**  At least one condition must be true.
  - **not:** Negates the condition.
