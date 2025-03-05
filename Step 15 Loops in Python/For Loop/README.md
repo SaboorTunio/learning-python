@@ -45,4 +45,11 @@ for number in range(1, 5):
 for letter in 'Python':
     print(letter)
 ```
-    
+
+# Looping Over Lists
+- **Example :**
+```
+cities = ['New York', 'Paris', 'London']
+for city in cities:
+    print(city)
+```
