@@ -23,5 +23,13 @@
 # start : The starting number (default is 0).  
 # stop :  The number at which the sequqnce stops (exclusive).
 # step : The increment between numbers (default is 1).  
-for number in range(1, 5):
-    print(number)
+# for number in range(1, 5):
+#     print(number)
+
+# Looping Over Strings
+# Explanation : Strings are sequences, so you can use a for loop to iterate over each character in a string.
+
+# Example :
+# for letter in 'Python':
+#     print(letter)
+

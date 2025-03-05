@@ -36,3 +36,13 @@ for fruit in fruits:
 for number in range(1, 5):
     print(number)
 ```    
+
+# Looping Over Strings
+- **Explanation :** Strings are sequences, so you can use a for loop to iterate over each character in a string.
+
+- **Example :**
+```
+for letter in 'Python':
+    print(letter)
+```
+    
