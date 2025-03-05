@@ -53,3 +53,12 @@ cities = ['New York', 'Paris', 'London']
 for city in cities:
     print(city)
 ```
+
+# Nested for Loops
+- **Explanation :** You can place one for loop inside another to perform more complex tasks.
+- **Example :**
+```
+for i in range(1, 4):
+    for j in range(1, 4):
+        print(f'i = {i}, j = {j}')
+```
