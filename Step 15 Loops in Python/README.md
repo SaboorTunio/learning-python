@@ -33,10 +33,22 @@ while count < 5:
 
 - **A while loop runs while a condition is True**
 - **It's useful when you don't know how many times you need to loop.**
+- **Example :**
+```
+i = 1
+while i <=5:
+    print(i)
+    i += 1
+```
 
 <h1 style="text-align: center;">For Loop</h1>
 
 - **A For loop iterates over a known sequence or range.**
 - **Its useful when you know how many time you want to iterate.**
+- **Example :**
 
+```
+for i in range(1,6):
+    print(i)
+```    
 
