@@ -36,3 +36,12 @@ print(fruits) # Outputs : ['apple', 'cherry', 'orange', 'grapes', 'mango']
 fruits = ['apple', 'banana', 'orange', 'grapes', 'mango']
 print(fruits[1:3]) # Output ['banana', 'orange']
 ```
+
+# Looping Through a List
+
+```
+fruits = ['apple', 'banana', 'orange', 'grapes', 'mango']
+for fruit in fruits:
+    print(fruit)
+```
+

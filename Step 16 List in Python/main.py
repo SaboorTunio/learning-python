@@ -33,5 +33,12 @@
 # Use Start : Stop to extract a portion of a list.
 # Example :
 
-fruits = ['apple', 'banana', 'orange', 'grapes', 'mango']
-print(fruits[1:3]) # Output ['banana', 'orange']
+# fruits = ['apple', 'banana', 'orange', 'grapes', 'mango']
+# print(fruits[1:3]) # Output ['banana', 'orange']
+
+
+# Looping Through a List
+
+# fruits = ['apple', 'banana', 'orange', 'grapes', 'mango']
+# for fruit in fruits:
+#     print(fruit)
