@@ -42,3 +42,9 @@
 # fruits = ['apple', 'banana', 'orange', 'grapes', 'mango']
 # for fruit in fruits:
 #     print(fruit)
+
+# List Operations
+# Length of a List : Use len() to find out how many items are in a list.
+# Example :
+fruits = ['apple', 'banana', 'orange', 'grapes', 'mango']
+print(len(fruits)) # Output : 5
