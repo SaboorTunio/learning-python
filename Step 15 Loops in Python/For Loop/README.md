@@ -62,3 +62,24 @@ for i in range(1, 4):
     for j in range(1, 4):
         print(f'i = {i}, j = {j}')
 ```
+
+# The Break Statement in For Loops
+- **Explanation :** The break statement allows you to exit a loop before it has looped through all the items.
+- **Example**
+```
+for num in range (1,11):
+   if num == 5:
+      break # # Exit the loop when num is 5
+   print(num)
+```
+
+# The Continue Statement in For Loops 
+- **Explanation :** The continue statement skips the rest of the current iteration and moves to the next iteration.
+- **Example**   
+```
+for num in range (1,11):
+   if num == 5:
+      continue # Skip the rest of the code in the loop
+   print(num)
+   ```
+   
