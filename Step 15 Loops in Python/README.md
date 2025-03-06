@@ -1,4 +1,5 @@
-# What is Loop ?
+<h1 style="text-align: center;"> What is Loop ? </h1>
+
 - **Defination:** A loop is control flow structure that repeats a block of code as long as a condition is true.
 - **Why use loops ?**
  - Automate repetitive times.
@@ -25,3 +26,17 @@ while count < 5:
     count += 1
 
 ```
+
+# **Comparing For and While Loops**
+
+<h1 style="text-align: center;">While Loop</h1>
+
+- **A while loop runs while a condition is True**
+- **It's useful when you don't know how many times you need to loop.**
+
+<h1 style="text-align: center;">For Loop</h1>
+
+- **A For loop iterates over a known sequence or range.**
+- **Its useful when you know how many time you want to iterate.**
+
+
