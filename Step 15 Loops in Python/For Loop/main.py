@@ -67,3 +67,14 @@
 #    if num == 5:
 #       continue # Skip the rest of the code in the loop
 #    print(num)
+
+
+# Looping over a Dictionary
+#Explanation : You can loop over dictionaries to access keys and values.
+#Example :
+
+# person = {'name': 'John', 'age': 30, 'city': 'New York'}
+# for key, value in person.items():
+#     print(f'{key}: {value}')
+
+
